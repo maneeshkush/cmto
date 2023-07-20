@@ -1,21 +1,21 @@
- body,p,td,div,span{font-family:arial,helvetica,sans-serif;font-size:12pt;color:#000;}
+body,p,td,div,span{font-family:arial,helvetica,sans-serif;font-size:12pt;color:#000;}
 body{background:#fff;margin:0px;padding:0px;border:0;text-align: center;}
 
 p{margin:5px 0 8px 0;}
 img{border:0px;}
-h1{color:#333;font-size:20pt;font-weight:bold;padding:0;margin:12px 0;}
+h1{color:#0637ef;font-size:20pt;font-weight:bold;padding:0;margin:12px 0;}
 #resulth1{background-color:#ffefe7;padding:0px 5px 0px 5px;border-top:#930 1px dotted;}
-h2{font-size:18pt;font-weight:bold;color:#333;padding:0; margin-bottom: 2px;}
-h3{font-size:16pt;font-weight:bold;color:#333;}
+h2{font-size:18pt;font-weight:bold;color:#0637ef;padding:0; margin-bottom: 2px;}
+h3{font-size:16pt;font-weight:bold;color:#0637ef;}
 h3 a{color:#417516;}
 h3 a:hover{text-decoration:none;}
 h4{font-size:13pt;font-weight: bold;padding:0; margin: 0px;}
-a{color:#063;text-decoration:underline;}
+a{color:#141515;text-decoration:underline;}
 a:hover{text-decoration:none;}
 #clear{margin-left: auto;margin-right: auto;clear: both;height: 1px;}
 
-#headerout{background:#333;text-align: center;}
-#header{width:990px;height:60px;background:#333;padding:0px;margin-left: auto;margin-right: auto;text-align: left;overflow:auto;}
+#headerout{background:#eee;text-align: center;}
+#header{width:990px;height:60px;background:#eee;padding:0px;margin-left: auto;margin-right: auto;text-align: left;overflow:auto;}
 #logo{padding: 16px 0px 0px 0px;width:300px;float:left;}
 
 #contentout{width:990px;padding-top:5px;margin-left: auto;margin-right: auto;text-align: left;overflow:auto;}
@@ -29,12 +29,12 @@ a:hover{text-decoration:none;}
 #footernav{text-align: center;}
 
 #othercalc{
-	border:solid 1px #333;
+	border:solid 1px #0637ef;
 	margin: auto;
 	text-align:left;
 }
 #octitle{
-	background-color: #333;
+	background-color: #0637ef;
 	padding: 6px 12px;
 	color: #fff;
 	font-size: 17px;
@@ -49,14 +49,14 @@ a:hover{text-decoration:none;}
 }
 #occontent{
 	padding: 0px;
-	background-color: #333;
+	background-color: #0637ef;
 	font-weight: bold;
 }
 #occontent a{
 	display: block;
 	padding: 6px 12px;
-	background-color: #333;
-	color:#333;
+	background-color: #eee;
+	color:#0637ef;
 	text-decoration: none;
 	font-size: 15px;
 }
@@ -68,11 +68,11 @@ a:hover{text-decoration:none;}
 .occontenton{
 	display: block;
 	padding: 6px 6px;
-	background-color: #333;
-	color:#333;
+	background-color: #eee;
+	color:#0637ef;
 }
 .occontenton a{
-	color:#333;
+	color:#0637ef;
 }
 #ocsubnav{
 	background-color: #fff;
@@ -86,7 +86,7 @@ a:hover{text-decoration:none;}
 	padding: 5px 2px 5px 14px;;
 	background-color: #fff;
 	text-decoration: none;
-	color:#333;
+	color:#0637ef;
 }
 #ocsubnav a:hover {
 	text-decoration: underline;
@@ -102,7 +102,7 @@ a:hover{text-decoration:none;}
 	font-weight:bold;
 }
 
-.topnav{font-size:11px;padding-top: 0px;padding-bottom: 10px;}
+.topnav{font-size:16px;padding-top: 0px;padding-bottom: 10px;}
 .bigtext{font-size: 18px;}
 #qcvt{
 	background-color: #eeeeee;
@@ -130,14 +130,14 @@ a:hover{text-decoration:none;}
 	padding: 8px;
 	border: 1px solid #888888;
 	border-bottom: 0px solid #888888;
-	background-color: #333;
+	background-color: #0637ef;
 	text-decoration: none;
 	font-weight: bold;
 	color: #FFFFFF;
 }
 #menu a:hover {
 	background-color: #eeeeee;
-	color: #333;
+	color: #0637ef;
 }
 #menuon {
 	font-size: 16px;
@@ -163,22 +163,22 @@ a:hover{text-decoration:none;}
 	background-color: #eeeeee;
 	text-decoration: none;
 	font-weight: bold;
-	color: #333;
+	color: #0637ef;
 }
 #menuon a:hover {
 	background-color: #eeeeee;
-	color: #333;
+	color: #0637ef;
 }
 
 #uctable{
 	width: 620px;
-	background-color: #333;
+	background-color: #eee;
 	border-radius: 4px;
 }
 #undctable{
 	border: 1px solid #ccc;
 	border-radius: 4px;
-	background-color: #333;
+	background-color: #eee;
 	padding: 8px;
 	margin-top: 15px;
 }
@@ -208,13 +208,13 @@ a:hover{text-decoration:none;}
 	border: 1px solid #000;
 	border-radius: 4px;
 	box-shadow: 2px 2px 3px #666;
-	background-color: #333;
+	background-color: #0637ef;
 	font-weight:bold;
 	color: #ffffff;
 }
 .ucdcsubmit:hover{
 	background-color: #fff;
-	color: #333;
+	color: #0637ef;
 }
 .ucselect{
 	width:100%;
@@ -232,7 +232,7 @@ a:hover{text-decoration:none;}
 	font-size: 16px;
 }
 .datatable th{
-	background-color: #406b04;
+	background-color: #141515;
 	color: #FFFFFF;
 	padding: 3px 10px;
 	border: 1px solid #000;
@@ -282,7 +282,7 @@ a:hover{text-decoration:none;}
 }
 #futcResult div span{
 	padding-left: 20px;
-	color: #406b04;
+	color: #141515;
 }
 
 #homelist ul{
@@ -295,7 +295,7 @@ a:hover{text-decoration:none;}
 	border-left:1px solid #ccc;
 	border-right:1px outset #ccc;
 	border-bottom:1px outset #ccc;
-	background: #333;
+	background: #eee;
 }
 #sciOutPut{
 	font-size:17px;
