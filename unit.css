@@ -29,12 +29,12 @@ a:hover{text-decoration:none;}
 #footernav{text-align: center;}
 
 #othercalc{
-	border:solid 1px #eee;
+	border:solid 1px #333;
 	margin: auto;
 	text-align:left;
 }
 #octitle{
-	background-color: #eee;
+	background-color: #333;
 	padding: 6px 12px;
 	color: #fff;
 	font-size: 17px;
@@ -49,13 +49,13 @@ a:hover{text-decoration:none;}
 }
 #occontent{
 	padding: 0px;
-	background-color: #eee;
+	background-color: #333;
 	font-weight: bold;
 }
 #occontent a{
 	display: block;
 	padding: 6px 12px;
-	background-color: #eee;
+	background-color: #333;
 	color:#006633;
 	text-decoration: none;
 	font-size: 15px;
@@ -68,7 +68,7 @@ a:hover{text-decoration:none;}
 .occontenton{
 	display: block;
 	padding: 6px 6px;
-	background-color: #eee;
+	background-color: #333;
 	color:#006633;
 }
 .occontenton a{
@@ -130,14 +130,14 @@ a:hover{text-decoration:none;}
 	padding: 8px;
 	border: 1px solid #888888;
 	border-bottom: 0px solid #888888;
-	background-color: #eee;
+	background-color: #333;
 	text-decoration: none;
 	font-weight: bold;
 	color: #FFFFFF;
 }
 #menu a:hover {
 	background-color: #eeeeee;
-	color: #eee;
+	color: #333;
 }
 #menuon {
 	font-size: 16px;
@@ -163,22 +163,22 @@ a:hover{text-decoration:none;}
 	background-color: #eeeeee;
 	text-decoration: none;
 	font-weight: bold;
-	color: #eee;
+	color: #333;
 }
 #menuon a:hover {
 	background-color: #eeeeee;
-	color: #eee;
+	color: #333;
 }
 
 #uctable{
 	width: 620px;
-	background-color: #eee;
+	background-color: #333;
 	border-radius: 4px;
 }
 #undctable{
 	border: 1px solid #ccc;
 	border-radius: 4px;
-	background-color: #eee;
+	background-color: #333;
 	padding: 8px;
 	margin-top: 15px;
 }
@@ -208,13 +208,13 @@ a:hover{text-decoration:none;}
 	border: 1px solid #000;
 	border-radius: 4px;
 	box-shadow: 2px 2px 3px #666;
-	background-color: #eee;
+	background-color: #333;
 	font-weight:bold;
 	color: #ffffff;
 }
 .ucdcsubmit:hover{
 	background-color: #fff;
-	color: #eee;
+	color: #333;
 }
 .ucselect{
 	width:100%;
@@ -295,7 +295,7 @@ a:hover{text-decoration:none;}
 	border-left:1px solid #ccc;
 	border-right:1px outset #ccc;
 	border-bottom:1px outset #ccc;
-	background: #eee;
+	background: #333;
 }
 #sciOutPut{
 	font-size:17px;
