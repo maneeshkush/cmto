@@ -1,12 +1,12 @@
-body,p,td,div,span{font-family:arial,helvetica,sans-serif;font-size:12pt;color:#000;}
+ body,p,td,div,span{font-family:arial,helvetica,sans-serif;font-size:12pt;color:#000;}
 body{background:#fff;margin:0px;padding:0px;border:0;text-align: center;}
 
 p{margin:5px 0 8px 0;}
 img{border:0px;}
-h1{color:#006633;font-size:20pt;font-weight:bold;padding:0;margin:12px 0;}
+h1{color:#333;font-size:20pt;font-weight:bold;padding:0;margin:12px 0;}
 #resulth1{background-color:#ffefe7;padding:0px 5px 0px 5px;border-top:#930 1px dotted;}
-h2{font-size:18pt;font-weight:bold;color:#006633;padding:0; margin-bottom: 2px;}
-h3{font-size:16pt;font-weight:bold;color:#006633;}
+h2{font-size:18pt;font-weight:bold;color:#333;padding:0; margin-bottom: 2px;}
+h3{font-size:16pt;font-weight:bold;color:#333;}
 h3 a{color:#417516;}
 h3 a:hover{text-decoration:none;}
 h4{font-size:13pt;font-weight: bold;padding:0; margin: 0px;}
@@ -14,8 +14,8 @@ a{color:#063;text-decoration:underline;}
 a:hover{text-decoration:none;}
 #clear{margin-left: auto;margin-right: auto;clear: both;height: 1px;}
 
-#headerout{background:#006633;text-align: center;}
-#header{width:990px;height:60px;background:#006633;padding:0px;margin-left: auto;margin-right: auto;text-align: left;overflow:auto;}
+#headerout{background:#333;text-align: center;}
+#header{width:990px;height:60px;background:#333;padding:0px;margin-left: auto;margin-right: auto;text-align: left;overflow:auto;}
 #logo{padding: 16px 0px 0px 0px;width:300px;float:left;}
 
 #contentout{width:990px;padding-top:5px;margin-left: auto;margin-right: auto;text-align: left;overflow:auto;}
@@ -56,7 +56,7 @@ a:hover{text-decoration:none;}
 	display: block;
 	padding: 6px 12px;
 	background-color: #333;
-	color:#006633;
+	color:#333;
 	text-decoration: none;
 	font-size: 15px;
 }
@@ -69,10 +69,10 @@ a:hover{text-decoration:none;}
 	display: block;
 	padding: 6px 6px;
 	background-color: #333;
-	color:#006633;
+	color:#333;
 }
 .occontenton a{
-	color:#006633;
+	color:#333;
 }
 #ocsubnav{
 	background-color: #fff;
@@ -86,7 +86,7 @@ a:hover{text-decoration:none;}
 	padding: 5px 2px 5px 14px;;
 	background-color: #fff;
 	text-decoration: none;
-	color:#006633;
+	color:#333;
 }
 #ocsubnav a:hover {
 	text-decoration: underline;
